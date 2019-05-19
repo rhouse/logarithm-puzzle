@@ -4,7 +4,7 @@ logarithm-puzzle
 
 In today's world of computers, calculators, cellphones, etc., nobody uses
 logarithm tables for doing arithmetic.  However, not so long ago logarithm
-tables were indispensible.  They allowed multiplication to be done by
+tables were indispensable.  They allowed multiplication to be done by
 addition, and division to be done by subtraction.  Even exponentiation was
 tractable; it could be done by multiplying.  <a href="https://en.wikipedia.org/wiki/Common_logarithm">Here</a> are some 
 examples.
